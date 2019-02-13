@@ -1,5 +1,5 @@
 # Better use
-this link (git.schinz.it)[https://git.schinz.it/dotfiles/nvim]  
+this link [git.schinz.it](https://git.schinz.it/dotfiles/nvim)  
 
 # Neovim config dir
 
