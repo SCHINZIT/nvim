@@ -1,3 +1,6 @@
+# Better use
+this link (git.schinz.it)[https://git.schinz.it/dotfiles/nvim]  
+
 # Neovim config dir
 
 # HoWto Enable
